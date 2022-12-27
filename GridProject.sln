@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "GridProject", "GridProject\GridProject.vbproj", "{A1865544-B66B-4705-8645-A974BAF6585A}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DLLFunciones", "DLLFunciones\DLLFunciones.vbproj", "{C6901DE4-D37C-4F62-9870-601877910947}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1865544-B66B-4705-8645-A974BAF6585A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1865544-B66B-4705-8645-A974BAF6585A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1865544-B66B-4705-8645-A974BAF6585A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1865544-B66B-4705-8645-A974BAF6585A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6901DE4-D37C-4F62-9870-601877910947}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6901DE4-D37C-4F62-9870-601877910947}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6901DE4-D37C-4F62-9870-601877910947}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6901DE4-D37C-4F62-9870-601877910947}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DDE2EAEA-8BD2-4A2B-BB4E-90BC9097B322}
+	EndGlobalSection
+EndGlobal
